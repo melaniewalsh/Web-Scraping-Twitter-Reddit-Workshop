@@ -1,5 +1,5 @@
 # Web Scraping with Twitter and Reddit
-## Cornell Data Workshop
+## Cornell Data Journal Workshop
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melaniewalsh/Web-Scraping-Twitter-Reddit-Workshop/main?urlpath=lab/tree/Web-Scraping-Twitter-Reddit-Workshop.ipynb
 )
 
